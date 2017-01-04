@@ -1,7 +1,7 @@
-server:
-  prot: 23333 
-spring:
-  application:
-    name: server-01
-eureka:
-  serviceUrlDefault: http://localhost:23333/eureka/
+server1-port: 36880
+server1-name: server-01
+server1-eureka-url: http://192.168.1.90:36880/eureka/
+
+server2-port: 36881
+server2-name: server-02
+server2-eureka-url: http://192.168.1.90:36881/eureka/
