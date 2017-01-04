@@ -1,4 +1,4 @@
 Client.port: 9090
 Client.name: eureka.client
-Client.eureka.url: http://192.168.1.90:36880/eureka/,http://192.168.1.90:36881/eureka/
+Client.eureka.url: http://192.168.1.60:36880/eureka/,http://192.168.1.60:36881/eureka/
 Client.appname: eureka.client.01
