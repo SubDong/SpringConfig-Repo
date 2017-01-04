@@ -1,3 +1,4 @@
-my-config:
-  appName: my-app new pro
-label: ccccccc
+Client.port=9090
+Client.name=eureka.client
+Client.eureka.url=http://localhost:23333/eureka/
+Client.appname=eureka.client.01
