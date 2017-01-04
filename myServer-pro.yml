@@ -4,4 +4,4 @@ spring:
   application:
     name: server-01
 eureka:
-  serviceUrlDefault: http://localhost:23333/eureka/
+  serviceUrlDefault: 192.168.1.3
